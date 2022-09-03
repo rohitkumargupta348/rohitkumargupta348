@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center" >Hi there 👋</h1>
 
 <!-- header image -->
 <a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
@@ -31,9 +31,9 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <h1>Started Exploring </h1>
 <p>
-  <img alt="NODE.JS" src="[https://icons8.com/icon/t9oCxEN7McHZ/nodejs](https://img.icons8.com/color/452/nodejs.png)?style=for-the-badge&logo=nodejs&logoColor=white" />
-  <img alt="MONGO-DB" src="[https://icons8.com/icon/nn5BRPhPpKAT/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)?style=for-the-badge&logo=mongo-db=white" />
-   <img alt="REST-API" src="[https://icons8.com/icon/79873/api-settings](https://img.icons8.com/sf-ultralight-filled/2x/api-settings.png)?style=for-the-badge&logo=restful api&logoColor=white" />
+  <img alt="NODE.JS" src="[[https://icons8.com/icon/t9oCxEN7McHZ/nodejs](https://img.icons8.com/color/452/nodejs.png)](https://cdn-icons-png.flaticon.com/128/919/919825.png)?style=for-the-badge&logo=nodejs&logoColor=white" />
+  <img alt="MONGO-DB" src="[[https://icons8.com/icon/nn5BRPhPpKAT/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)](https://cdn-icons-png.flaticon.com/128/2758/2758751.png)?style=for-the-badge&logo=mongo-db=white" />
+   <img alt="REST-API" src="[[https://icons8.com/icon/79873/api-settings](https://img.icons8.com/sf-ultralight-filled/2x/api-settings.png)](https://cdn-icons-png.flaticon.com/512/3234/3234053.png)?style=for-the-badge&logo=restful api&logoColor=white" />
  
 </p>
 
