@@ -31,7 +31,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <h1>Started Exploring </h1>
 <p>
-  <img alt="NODE.JS" src="https://cdn-icons-png.flaticon.com/128/919/919825.png?style=for-the-badge&logo=node.js=white" />
+  <img alt="NODE.JS" src="![api](https://user-images.githubusercontent.com/75970023/188286191-07c3b765-06ed-4fba-a4b1-c83fde771df9.png)?style=for-the-badge&logo=node.js=white" />
   <img alt="MONGO-DB" src="https://cdn-icons-png.flaticon.com/512/2758/2758751.png?style=for-the-badge&logo=mongo-db=white" />
    <img alt="REST-API" src="https://cdn-icons-png.flaticon.com/512/4180/4180014.png?style=for-the-badge&logo=restful api&logoColor=white" />
  
