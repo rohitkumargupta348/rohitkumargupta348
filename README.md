@@ -70,6 +70,27 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <a href="https://github.com/rohitkumargupta348?tab=followers"><img src="https://img.shields.io/github/followers/rohitkumargupta348?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
 
+   ### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
+
+<p align="left">
+	<a href="https://leetcode.com/R_Gupta_930/" target="_blank">
+		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
+	</a>
+	<a href="https://auth.geeksforgeeks.org/user/anishgupta8004" target="_blank">
+		<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" width="40" height="40"/>
+	</a>
+	<a href="https://www.codechef.com/users/rgupta_930" target="_blank">
+		<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" width="60" height="40"/>
+	</a>
+</p>
+
+[instagram]: https://www.instagram.com/rohitrocks1000/
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nmastepankaj/count.svg" />
+</p>
+
 
 
 
