@@ -31,9 +31,9 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <h1>Started Exploring </h1>
 <p>
-  <img alt="NODE.JS" src="https://img.shields.io/badge/node.js?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="MONGO-DB" src="https://img.shields.io/badge/mongodb?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img alt="REST API" src="https://img.shields.io/badge/restapi?style=for-the-badge&logo=restapi&logoColor=white" />
+   <a href="https://nodejs.dev/en/learn/">node.js</a>
+   <a href="https://www.mongodb.com/docs/">mongodb</a>
+   <a href="https://www.w3schools.in/restful-web-services/intro">rest api</a>
  
 </p>
 
