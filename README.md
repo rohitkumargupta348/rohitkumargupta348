@@ -5,9 +5,9 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> ROHIT KUMAR GUPTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> ROHIT KUMAR GUPTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="gippy.gif" >
 
-A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree</b> in Electronics and Communication Engineering from Indian Institute Of Information Technology, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Competitive Programming </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Competitive Programming </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Problem Solver | Researcher </h3>
 
@@ -31,17 +31,15 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <h1>Started Exploring </h1>
 <p>
-  <img alt="NODE.JS" src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs?style=for-the-badge&logo=nodejs&logoColor=white" />
-  <img alt="MONGO-DB" src=https://icons8.com/icon/nn5BRPhPpKAT/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo?style=for-the-badge&logo=mongo-db=white" />
-   <img alt="RESTFUL-API" src="https://icons8.com/icon/79873/api-settings?style=for-the-badge&logo=restful api&logoColor=white" />
+  <img alt="NODE.JS" src="[https://icons8.com/icon/t9oCxEN7McHZ/nodejs](https://img.icons8.com/color/452/nodejs.png)?style=for-the-badge&logo=nodejs&logoColor=white" />
+  <img alt="MONGO-DB" src="[https://icons8.com/icon/nn5BRPhPpKAT/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)?style=for-the-badge&logo=mongo-db=white" />
+   <img alt="REST-API" src="[https://icons8.com/icon/79873/api-settings](https://img.icons8.com/sf-ultralight-filled/2x/api-settings.png)?style=for-the-badge&logo=restful api&logoColor=white" />
  
 </p>
 
 
 <h1 align="center">Projects</h1>
-
-<h1>Projects</h1>
-<a href="https://github.com/rohitkumargupta348?tab=repositories">My_Projects</a>
+<a align="center" href="https://github.com/rohitkumargupta348?tab=repositories">My_Projects</a>
 
 <h1 align="center">Let's Get Connected</h1>
 
