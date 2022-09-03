@@ -72,7 +72,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
    ### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
 
-<p align="left">
+<p align="center">
 	<a href="https://leetcode.com/R_Gupta_930/" target="_blank">
 		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
 	</a>
