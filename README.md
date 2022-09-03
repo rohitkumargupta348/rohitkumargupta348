@@ -31,9 +31,9 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <h1>Started Exploring </h1>
 <p>
-  <img alt="NODE.JS" src="nodejs.png?style=for-the-badge&logo=node.js=white" />
-  <img alt="MONGO-DB" src="relational.png?style=for-the-badge&logo=mongo-db=white" />
-   <img alt="REST-API" src="api.png?style=for-the-badge&logo=restful api&logoColor=white" />
+  <img alt="NODE.JS" src="https://img.shields.io/badge/node.js?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="MONGO-DB" src="https://img.shields.io/badge/mongodb?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img alt="REST API" src="https://img.shields.io/badge/restapi?style=for-the-badge&logo=restapi&logoColor=white" />
  
 </p>
 
