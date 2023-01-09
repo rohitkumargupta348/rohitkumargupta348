@@ -65,7 +65,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumargupta348&theme=dark" alt="Rohit-Kumar-Gupta" /></p>
   </div>
 
- [(https://git.io/rohitkumargupta348)
+ 
 
 
  <a href="https://github.com/rohitkumargupta348?tab=followers"><img src="https://img.shields.io/github/followers/rohitkumargupta348?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
