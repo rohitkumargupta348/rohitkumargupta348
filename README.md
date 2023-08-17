@@ -9,7 +9,7 @@
 
 A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Competitive Programming </b> but still, exploring Other domains. ⚡
 
-<h3 align="center">A Passionate Frontend-Web Developer | Problem Solver | Researcher </h3>
+<h3 align="center">A Passionate Frontend-Web Developer | Problem Solver | Blockchain Developer | Researcher </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitkumargupta348&label=Profile%20views&color=6805D3&style=flat" alt="Rohit-Kumar-Gupta" /> </p></h3>
    <div align="center">
@@ -29,12 +29,13 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
- <h1>Started Exploring </h1>
+ <h1>Exploring</h1>
 <p>
+   <a href="https://ethereum.org/en/developers/docs/">Ethereum</a>
+   <a href="https://bitcoin.org/bitcoin.pdf>Blockchain</a>
    <a href="https://nodejs.dev/en/learn/">node.js</a>
    <a href="https://www.mongodb.com/docs/">mongodb</a>
    <a href="https://www.w3schools.in/restful-web-services/intro">rest api</a>
- 
 </p>
 
 
