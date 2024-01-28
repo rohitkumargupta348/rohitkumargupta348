@@ -38,7 +38,7 @@ Full Stack Developer (MERN) | Blockchain Developer | Competitive Programming (C+
 
 
 <h1 align="center">Projects</h1>
-<a align="center" href="https://github.com/rohitkumargupta348?tab=repositories">My_Projects</a>
+<a align="center" href="https://github.com/rohitkumargupta348?tab=repositories"><strong>My_Projects</strong></a>
 
 <h1 align="center">Let's Get Connected</h1>
 
@@ -73,7 +73,7 @@ Full Stack Developer (MERN) | Blockchain Developer | Competitive Programming (C+
 
 <p align="center">
 	<a href="https://leetcode.com/R_Gupta_930/" target="_blank">
-		<img src="[https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png](https://tse3.mm.bing.net/th?id=OIP.Lur9rrJITsFRnuIYURYkSgHaE8&pid=Api&P=0&h=180)" alt="c" width="40" height="40"/>
+		<img src="https://www.yoreoyster.com/wp-content/uploads/2021/06/LeetCode-Review.png" alt="c" width="40" height="40"/>
 	</a>
 	<a href="https://auth.geeksforgeeks.org/user/anishgupta8004" target="_blank">
 		<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" width="40" height="40"/>
