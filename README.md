@@ -7,16 +7,16 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> ROHIT KUMAR GUPTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="giphy.gif" >
 
-A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Competitive Programming </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently in my Last Year of B.Tech. As of now, I am focused on <b>Full Stack Developmer, BlockChain Developer and Competitive Programming </b> but still, exploring Other domains. ⚡
 
-<h3 align="center">A Passionate Frontend-Web Developer | Problem Solver | Blockchain Developer | Researcher </h3>
+<h3 align="center">A Passionate Full Stack Web Developer | Competitive Programmer | Blockchain Developer | Problem Solver </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitkumargupta348&label=Profile%20views&color=6805D3&style=flat" alt="Rohit-Kumar-Gupta" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
-   
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and I have Worked on various Projects.Known Languages: C++, Html, JavaScript, and CSS.
+
+Full Stack Developer (MERN) | Blockchain Developer | Competitive Programming (C++)
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -31,11 +31,9 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  <h1>Exploring</h1>
 <p>
-   <a href="https://ethereum.org/en/developers/docs/">Ethereum</a>
-   <a href="https://bitcoin.org/bitcoin.pdf>Blockchain</a>
-   <a href="https://nodejs.dev/en/learn/">node.js</a>
-   <a href="https://www.mongodb.com/docs/">mongodb</a>
-   <a href="https://www.w3schools.in/restful-web-services/intro">rest api</a>
+   <a href="https://ethereum.org/en/developers/docs/"><strong>ETHEREUM</strong></a>
+   <a href="https://bitcoin.org/bitcoin.pdf><strong>BLOCKCHAIN</strong></a>
+   <a href="https://www.w3schools.in/restful-web-services/intro"><strong>REST API</strong></a>
 </p>
 
 
@@ -49,8 +47,8 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 <a  href="https://www.linkedin.com/in/rohit-kumar-gupta-7b168b201/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Rgupta_930"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:anishgupta8004@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:rohitkumarg930@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
@@ -75,17 +73,14 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 <p align="center">
 	<a href="https://leetcode.com/R_Gupta_930/" target="_blank">
-		<img src="https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png" alt="c" width="40" height="40"/>
+		<img src="[https://media.glassdoor.com/sqll/1763822/leetcode-squarelogo-1524799041565.png](https://tse3.mm.bing.net/th?id=OIP.Lur9rrJITsFRnuIYURYkSgHaE8&pid=Api&P=0&h=180)" alt="c" width="40" height="40"/>
 	</a>
 	<a href="https://auth.geeksforgeeks.org/user/anishgupta8004" target="_blank">
 		<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" width="40" height="40"/>
 	</a>
-	<a href="https://www.codechef.com/users/rgupta_930" target="_blank">
-		<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" width="60" height="40"/>
-	</a>
+	
 </p>
 
-[instagram]: https://www.instagram.com/rohitrocks1000/
 
 <p align="center"> 
   Visitor count<br>
