@@ -7,16 +7,16 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> ROHIT KUMAR GUPTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="giphy.gif" >
 
-A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently in my Last Year of B.Tech. As of now, I am focused on <b>Full Stack Developmer, BlockChain Developer and Competitive Programming </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently I'm in my Last Year of B.Tech. As of now, I am focused on <b>Front End Developmer, Back End Developer, BlockChain Developer and Competitive Programming </b> but still, exploring Other domains. ⚡
 
-<h3 align="center">A Passionate Full Stack Web Developer | Competitive Programmer | Blockchain Developer | Problem Solver </h3>
+<h3 align="center">A Passionate Front End Developmer| Back End Developer | Competitive Programmer | Blockchain Developer | Problem Solver </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitkumargupta348&label=Profile%20views&color=6805D3&style=flat" alt="Rohit-Kumar-Gupta" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
 
-Full Stack Developer (MERN) | Blockchain Developer | Competitive Programming (C++)
+Front End Developmer| Back End Developer | Blockchain Developer | Competitive Programming (C++)
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
