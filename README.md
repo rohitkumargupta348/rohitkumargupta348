@@ -5,7 +5,7 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> ROHIT KUMAR GUPTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="giphy.gif" >
+<h1 align="center" >Hi, I'm <a href="[https://www.linkedin.com/in/shivam-garg-15675720a/](https://www.linkedin.com/in/rohit-kumar-gupta-7b168b201/)" target="_blank"> ROHIT KUMAR GUPTA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="giphy.gif" >
 
 A Small Introduction of  Myself, I am <b>Rohit Kumar Gupta</b> pursuing <b>B.Tech Degree in Electronics and Communication Engineering</b> from Indian Institute Of Information Technology, Currently I'm in my Last Year of B.Tech. As of now, I am focused on <b>Front End Developmer, Back End Developer, BlockChain Developer and Competitive Programming </b> but still, exploring Other domains. ⚡
 
